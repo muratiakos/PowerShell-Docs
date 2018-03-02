@@ -127,6 +127,8 @@ Accept wildcard characters: False
 ```
 
 ### -Raw
+Switch that reads the full content into a single string, instead of an Array of strings.
+
 This parameter is not supported by any providers that are installed with Windows PowerShell.
 
 ```yaml
